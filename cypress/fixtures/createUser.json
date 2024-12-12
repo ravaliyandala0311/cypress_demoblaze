@@ -1,0 +1,7 @@
+{
+  "name": "TestName",
+  "email": "test@gmail.com",
+  "gender": "female",
+  "status": "inactive",
+  "message": "Resource not found"
+}
